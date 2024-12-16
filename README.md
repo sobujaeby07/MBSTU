@@ -1,2 +1,2 @@
 # MBSTU
-Python Progrmmer
+Python Programmer
