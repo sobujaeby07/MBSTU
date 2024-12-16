@@ -1,2 +1,2 @@
 # MBSTU
-My first work
+Python Progrmmer
